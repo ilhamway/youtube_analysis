@@ -1,0 +1,4 @@
+"0","# Pak Christoper"
+"0","mutate(.data = vids, "
+"0","       title = as.character(title),"
+"0","       channel_title = as.character(channel_title))"

@@ -1,0 +1,6 @@
+"0","# Bu Namira"
+"0","vids_clean %>% group_by(channel_title) %>% "
+"0","  summarise(mean_viewers = mean(views), "
+"0","            total_viewers = sum(views),"
+"0","            total_comment = sum(comment_count)) %>% "
+"0","  ungroup()"

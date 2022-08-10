@@ -1,0 +1,4 @@
+"0","library(ggplot2) # pembuatan plot statis"
+"0","library(plotly) # untuk plot interaktif"
+"0","library(glue) # utk setting tooltip"
+"0","library(scales)"

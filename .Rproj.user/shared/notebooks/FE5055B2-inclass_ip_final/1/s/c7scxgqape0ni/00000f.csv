@@ -1,0 +1,2 @@
+"0","# interactive plot"
+"0","ggplotly(plot1, tooltip = ""x"")"

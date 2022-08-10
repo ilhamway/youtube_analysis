@@ -1,0 +1,2 @@
+"0","# dplyr"
+"0","vids_select1 <- select(.data = vids, trending_date, title)"

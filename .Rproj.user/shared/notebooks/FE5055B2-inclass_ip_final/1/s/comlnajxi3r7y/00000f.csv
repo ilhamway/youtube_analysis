@@ -1,0 +1,2 @@
+"0","# buat plot menjadi interaktif dengan menambahkan tooltip"
+"0","ggplotly(plot3, tooltip = ""text"")"

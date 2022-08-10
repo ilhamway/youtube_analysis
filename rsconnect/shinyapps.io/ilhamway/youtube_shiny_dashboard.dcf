@@ -1,0 +1,13 @@
+name: youtube_shiny_dashboard
+title: youtube_shiny_dashboard
+username:
+account: ilhamway
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6739092
+bundleId: 6166223
+url: https://ilhamway.shinyapps.io/youtube_shiny_dashboard/
+when: 1659629623.37212
+lastSyncTime: 1659629623.37214
+asMultiple: FALSE
+asStatic: FALSE

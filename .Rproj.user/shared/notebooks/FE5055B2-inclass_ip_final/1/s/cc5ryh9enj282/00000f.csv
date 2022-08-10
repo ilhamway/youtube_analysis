@@ -1,0 +1,28 @@
+"0","glimpse(vids)"
+"1","Rows: 2,986"
+"1",""
+"1","
+"
+"1","Columns: 16"
+"1",""
+"1","
+"
+"1","$ trending_date          [3m[38;5;246m<fct>[39m[23m 2017-11-14, 2017-11-14, 2017-11-14, 2017-11-14, 2017-11-1…
+$ title                  [3m[38;5;246m<fct>[39m[23m ""WE WANT TO TALK ABOUT OUR MARRIAGE"", ""The Trump Presiden…
+$ channel_title          [3m[38;5;246m<fct>[39m[23m ""CaseyNeistat"", ""LastWeekTonight"", ""Rudy Mancuso"", ""Good …
+$ category_id            [3m[38;5;246m<fct>[39m[23m People and Blogs, Entertainment, Comedy, Entertainment, E…
+$ publish_time           [3m[38;5;246m<fct>[39m[23m 2017-11-13 12:13:01, 2017-11-13 02:30:00, 2017-11-12 14:0…
+$ views                  [3m[38;5;246m<int>[39m[23m 748374, 2418783, 3191434, 343168, 2095731, 119180, 210341…
+$ likes                  [3m[38;5;246m<int>[39m[23m 57527, 97185, 146033, 10172, 132235, 9763, 15993, 23663, …
+$ dislikes               [3m[38;5;246m<int>[39m[23m 2966, 6146, 5339, 666, 1989, 511, 2445, 778, 119, 1363, 2…
+$ comment_count          [3m[38;5;246m<int>[39m[23m 15954, 12703, 8181, 2146, 17518, 1434, 1970, 3432, 340, 2…
+$ comments_disabled      [3m[38;5;246m<lgl>[39m[23m FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, F…
+$ ratings_disabled       [3m[38;5;246m<lgl>[39m[23m FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, F…
+$ video_error_or_removed [3m[38;5;246m<lgl>[39m[23m FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, F…
+$ publish_hour           [3m[38;5;246m<int>[39m[23m 12, 2, 14, 6, 13, 14, 0, 16, 9, 8, 21, 22, 12, 9, 13, 15,…
+$ publish_when           [3m[38;5;246m<fct>[39m[23m 8am to 3pm, 12am to 8am, 8am to 3pm, 12am to 8am, 8am to …
+$ publish_wday           [3m[38;5;246m<fct>[39m[23m Monday, Monday, Sunday, Monday, Sunday, Monday, Sunday, S…
+$ timetotrend            [3m[38;5;246m<fct>[39m[23m 1, 1, 2, 1, 2, 1, 2, 2, 1, 1, 1, 1, 1, 2, 2, 1, 2, 1, 1, …"
+"1",""
+"1","
+"

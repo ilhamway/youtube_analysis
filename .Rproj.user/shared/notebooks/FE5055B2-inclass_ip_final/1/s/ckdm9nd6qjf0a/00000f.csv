@@ -1,0 +1,3 @@
+"0","# dplyr"
+"0","mutate(.data = vids, "
+"0","       title = as.character(title))"

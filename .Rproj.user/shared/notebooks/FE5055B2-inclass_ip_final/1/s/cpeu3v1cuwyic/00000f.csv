@@ -1,0 +1,4 @@
+"0","# dplyr"
+"0","vids_gaming <- vids %>% "
+"0","  select(-comments_disabled, -ratings_disabled, -video_error_or_removed) %>% "
+"0","  filter(category_id == ""Gaming"", views > 1000000)"

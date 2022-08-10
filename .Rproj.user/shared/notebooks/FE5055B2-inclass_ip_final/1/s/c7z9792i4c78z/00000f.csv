@@ -1,0 +1,2 @@
+"0","# plotly"
+"0","ggplotly(plot2, tooltip = ""text"")"

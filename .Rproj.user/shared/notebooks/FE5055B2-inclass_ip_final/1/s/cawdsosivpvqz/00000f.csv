@@ -1,0 +1,6 @@
+"0","# code here"
+"0","vids_clean %>% "
+"0","  group_by(channel_title, title) %>% "
+"0","  summarise(mean_views = mean(views)) %>% "
+"0","  ungroup() %>% "
+"0","  top_n(1)"

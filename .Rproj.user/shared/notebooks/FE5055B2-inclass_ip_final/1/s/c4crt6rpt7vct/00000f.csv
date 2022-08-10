@@ -1,0 +1,5 @@
+"0","vids_agg <- vids_clean %>% "
+"0","  filter(category_id==""Music"") %>% "
+"0","  group_by(publish_when, publish_wday) %>% "
+"0","  summarise(average = mean(views)) %>% "
+"0","  ungroup()"

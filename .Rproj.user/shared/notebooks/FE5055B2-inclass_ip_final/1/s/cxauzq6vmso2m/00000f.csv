@@ -1,0 +1,5 @@
+"0","# dplyr"
+"0","vids_clean %>% "
+"0","  group_by(channel_title) %>% "
+"0","  summarise(mean_viewers = mean(views)) %>% "
+"0","  ungroup()"
